@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.377e4e77.css",
-    "main.js": "/personal-website/static/js/main.8ed5a377.js",
-    "static/js/770.b707a2f9.chunk.js": "/personal-website/static/js/770.b707a2f9.chunk.js",
-    "static/js/453.6da45a70.chunk.js": "/personal-website/static/js/453.6da45a70.chunk.js",
-    "static/media/logo.png": "/personal-website/static/media/logo.0392a38c31a8aaffde28.png",
-    "static/media/Jay Sabhaya WD Resume.pdf": "/personal-website/static/media/Jay Sabhaya WD Resume.e0d8899a302eb29ac966.pdf",
-    "static/media/codeEditor.png": "/personal-website/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/personal-website/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/personal-website/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/personal-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/personal-website/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/personal-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/personal-website/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/personal-website/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/personal-website/index.html",
-    "main.377e4e77.css.map": "/personal-website/static/css/main.377e4e77.css.map",
-    "main.8ed5a377.js.map": "/personal-website/static/js/main.8ed5a377.js.map",
-    "770.b707a2f9.chunk.js.map": "/personal-website/static/js/770.b707a2f9.chunk.js.map",
-    "453.6da45a70.chunk.js.map": "/personal-website/static/js/453.6da45a70.chunk.js.map"
+    "main.css": "/jay-portfolio/static/css/main.57cd1e60.css",
+    "main.js": "/jay-portfolio/static/js/main.11ed6fad.js",
+    "static/js/770.b707a2f9.chunk.js": "/jay-portfolio/static/js/770.b707a2f9.chunk.js",
+    "static/js/453.6da45a70.chunk.js": "/jay-portfolio/static/js/453.6da45a70.chunk.js",
+    "static/media/logo.png": "/jay-portfolio/static/media/logo.0392a38c31a8aaffde28.png",
+    "static/media/Jay Sabhaya WD Resume.pdf": "/jay-portfolio/static/media/Jay Sabhaya WD Resume.e0d8899a302eb29ac966.pdf",
+    "static/media/codeEditor.png": "/jay-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/jay-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/jay-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/jay-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/jay-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/jay-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/jay-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/jay-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/jay-portfolio/index.html",
+    "main.57cd1e60.css.map": "/jay-portfolio/static/css/main.57cd1e60.css.map",
+    "main.11ed6fad.js.map": "/jay-portfolio/static/js/main.11ed6fad.js.map",
+    "770.b707a2f9.chunk.js.map": "/jay-portfolio/static/js/770.b707a2f9.chunk.js.map",
+    "453.6da45a70.chunk.js.map": "/jay-portfolio/static/js/453.6da45a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.377e4e77.css",
-    "static/js/main.8ed5a377.js"
+    "static/css/main.57cd1e60.css",
+    "static/js/main.11ed6fad.js"
   ]
 }
